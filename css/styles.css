@@ -140,6 +140,7 @@ a {
 }
 
 .ourteam-list {
+  background-color: #ffffff;
 }
 
 .ourteam-item {
@@ -162,6 +163,7 @@ a {
 }
 
 .portfolio-title {
+  text-transform: capitalize;
 }
 
 .portfolio-list {
