@@ -103,7 +103,14 @@ a {
   letter-spacing: 0.04em;
   color: #fff;
   cursor: pointer;
+  background-color: #4d5ae5;
 }
+
+.hero-btn:hover,
+.hero-btn:focus {
+  background-color: #404bbf;
+}
+
 /* ---------------HERO--------------- */
 
 /* ---------------FEATURES--------------- */
@@ -129,6 +136,7 @@ a {
 }
 
 .ourteam-title {
+  text-transform: capitalize;
 }
 
 .ourteam-list {
